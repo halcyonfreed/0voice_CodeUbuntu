@@ -1,0 +1,4 @@
+
+gitssh keygen弄完以后
+
+cp /home/halcyon/.ssh/id_rsa.pub /home/halcyon/share/2404然后windows复制到git上
